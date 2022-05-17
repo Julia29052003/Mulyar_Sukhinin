@@ -18,6 +18,8 @@ namespace TestLibrary
 
         int XY()
         {
+            x = 1;
+
             for (int i = 0; i < y; i++)
             {
                 x = x * x;

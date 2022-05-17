@@ -1,0 +1,6 @@
+D:\МулярСухинин\PZ_5\TestLibrary\bin\Debug\TestLibrary.dll
+D:\МулярСухинин\PZ_5\TestLibrary\bin\Debug\TestLibrary.pdb
+D:\МулярСухинин\PZ_5\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+D:\МулярСухинин\PZ_5\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+D:\МулярСухинин\PZ_5\TestLibrary\obj\Debug\TestLibrary.dll
+D:\МулярСухинин\PZ_5\TestLibrary\obj\Debug\TestLibrary.pdb
