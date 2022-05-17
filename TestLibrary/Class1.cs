@@ -21,9 +21,9 @@ namespace TestLibrary
             for (int i = 0; i < y; i++)
             {
                 x = x * x;
-
-                Console.WriteLine(Convert.ToString(x));
             }
+
+            return x;
         }
     }
 }
